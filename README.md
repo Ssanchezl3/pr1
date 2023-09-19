@@ -1,4 +1,5 @@
 # pr1
-// CLION c++17
--SantiagoSanchezLara
-Eafit?
+CLION
+c compiler = gcc.exe
+c++ compiler = g++.exe
+Santiago Sanchez Lara
